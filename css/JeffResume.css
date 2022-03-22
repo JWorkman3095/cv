@@ -1,0 +1,6 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18pt;
+}
+table { width: 100%;}
+table, th, td { border: 1px solid rgb(38, 38, 46); border-collapse: collapse;}
