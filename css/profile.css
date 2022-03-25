@@ -1,7 +1,11 @@
 body {
+    margin: 8px;
+    font-family: 'Times New Roman', Times, serif;
     padding: 0 15px
+
 }
 p {
+    font-size: 1.2rem;
     margin-bottom: .5rem
 }
 img {
